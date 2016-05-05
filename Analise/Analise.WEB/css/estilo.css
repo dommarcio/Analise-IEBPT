@@ -1,0 +1,346 @@
+﻿html
+{
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+body
+{
+    height: 100%;
+    width: 100%;
+    background-color: #AEAEEA;
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana;
+    font-size: 11px;
+}
+
+.Cabecalho
+{
+    height: 60px;
+    border-bottom: 1px inset Gray;
+    background-color: #2F2FB6;
+    color: White;
+    box-shadow: 0px 2px 4px #737373;
+}
+
+table
+{
+    width: 100%;
+    height: 100%;
+}
+
+.Cabecalho .Titulo
+{
+    text-shadow: 0.1em 0.1em #737373;
+    font-weight: bolder;
+    font-size: 16px;
+    text-align: left;
+}
+
+.Cabecalho .Usuario
+{
+    font-weight: bolder;
+    font-size: 12px;
+    text-align: left;
+    padding-right: 10px;
+    width: 350px;
+}
+
+.Cabecalho .UsuarioImage
+{
+    float: left;
+    margin-left: 0;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+#listas
+{
+    width: 250px;
+    background-color: White;
+    box-shadow: 03px 3px 6px #737373;
+    -webkit-box-shadow: 3px 3px 6px #737373;
+    -moz-box-shadow: 3px 3px 6px #737373;
+    margin-left: 5px;
+    border-radius: 7px 7px 7px 7px;
+    position:absolute;
+    height: 87%;
+}
+
+.tituloListasGeral
+{
+    background-color: Silver;
+    border-radius: 7px 7px 0px 0px;
+    padding: 2px 2px 2px 10px;
+    font-weight: bolder;
+}
+
+.conteudoListas
+{
+    padding: 5px;
+}
+
+.ControleListas
+{
+    padding: 5px;
+    width: 240px;
+    background-color: Silver;
+    margin-right: 7px;
+}
+
+.imagemButton
+{
+    font-size: 16px;
+    font-family: Arial;
+    font-weight: normal;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    border: 1px solid #dcdcdc;
+    padding: 9px 18px;
+    text-decoration: none;
+    background: -moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+    background: -ms-linear-gradient( top, #ededed 5%, #dfdfdf 100% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(5%, #ededed), color-stop(100%, #dfdfdf) );
+    background-color: #ededed;
+    color: #777777;
+    display: inline-block;
+    text-shadow: 1px 1px 0px #ffffff;
+    -webkit-box-shadow: inset 1px 1px 0px 0px #ffffff;
+    -moz-box-shadow: inset 1px 1px 0px 0px #ffffff;
+    box-shadow: inset 1px 1px 0px 0px #ffffff;
+}
+.imagemButton:hover
+{
+    background: -moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+    background: -ms-linear-gradient( top, #dfdfdf 5%, #ededed 100% );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+    background: -webkit-gradient( linear, left top, left bottom, color-stop(5%, #dfdfdf), color-stop(100%, #ededed) );
+    background-color: #dfdfdf;
+}
+.imagemButton:active
+{
+    position: relative;
+    top: 1px;
+}
+
+
+.GridGeral
+{
+    border: 1px solid white;
+}
+
+.GridGeral .imgGrid
+{
+    float: left;
+    margin-left: 0;
+}
+
+.GridGeral tr
+{
+    border: 1px solid white;
+}
+
+.GridGeral a
+{
+    color: Black;
+    text-decoration: none;
+}
+
+.GridGeral .Nova
+{
+    background-color: #CCFFCC;
+    padding: 5px;
+}
+
+.GridGeral .Nova:hover
+{
+    background-color: #00E600;
+}
+
+.GridGeral .Analise
+{
+    background-color: #FFE6B3;
+    padding: 5px;
+}
+
+.GridGeral .Analise:hover
+{
+    background-color: #FFFF00;
+}
+
+.GridGeral .Escalado
+{
+    background-color: #FFCCCC;
+    padding: 5px;
+}
+
+.GridGeral .Escalado:hover
+{
+    background-color: #FF1A1A;
+}
+
+#Analises
+{
+    width: 80%;
+    background-color: White;
+    box-shadow: 03px 3px 6px #737373;
+    -webkit-box-shadow: 3px 3px 6px #737373;
+    -moz-box-shadow: 3px 3px 6px #737373;
+    margin-left: 5px;
+    border-radius: 7px 7px 7px 7px;
+    position:absolute;
+    height: 87%;
+}
+
+.tituloAnalise
+{
+    background-color: Silver;
+    border-radius: 7px 7px 0px 0px;
+    padding: 2px 2px 2px 10px;
+    font-weight: bolder;
+}
+
+.ConteudoAnalise
+{
+    border-spacing: 0px;
+    margin-left: 10px;
+    padding: 0px;
+}
+
+.Aba
+{
+    border-style: solid;
+    border-color: Gray;
+    border-width: 1px 1px 0px 1px;
+    background-color: #E6E6E6;
+    border-radius: 7px 7px 0px 0px;
+    padding: 2px 2px 2px 10px;
+    font-weight: bolder;
+    width: 200px;
+    height: 42px;
+}
+
+.Aba:hover
+{
+    background-color:White;
+    cursor:pointer;
+}
+
+.Aba .ImgAba
+{
+    float: left;
+    margin-left: 0;
+}
+
+.AbaAtiva
+{
+    background-color:White;
+}
+
+.abaConteudo
+{
+    border: 1px solid gray;
+    margin-right:20px;
+    position: absolute;
+    width: 97%;
+    top: 150px;
+    height: 75%;
+    overflow: auto;
+    padding: 5px;
+}
+
+.ChekListGrupo
+{
+    border: 1px solid silver;
+    margin-left: 10px;
+    border-radius: 7px 7px 7px 7px;
+    margin-bottom:10px;
+}
+
+.ChekListGrupo .titulo
+{
+    border: 1px solid silver;
+    border-radius: 7px 7px 0px 0px;
+    background-color: Silver;
+    padding: 5px;
+    font-weight: bolder;
+    
+}
+
+.CheckListItem
+{
+    border: 1px solid white;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 22px;
+}
+
+.EmAnalise
+{
+    background-color: #ffe680;
+}
+
+.Aprovado
+{
+    background-color: #b3ffb3;
+}
+
+.Reprovado
+{
+    background-color: #ffb3b3;
+}
+
+.tituloAba
+{
+    font-weight: bolder;
+    text-align: center;
+    width:100%;
+}
+
+.checkListConteudo
+{
+    border: 1px solid silver;
+    border-top: 2px solid silver;
+    background-color: White;
+    width: 400px;
+    left: 68%;
+    position: fixed;
+    padding: 2px;
+    box-shadow: 03px 3px 6px #737373;
+    -webkit-box-shadow: 3px 3px 6px #737373;
+    -moz-box-shadow: 3px 3px 6px #737373;
+}
+
+.checkListConteudo table
+{
+    border-collapse: collapse;
+    border-spacing:0px;
+}
+
+.checkListConteudo td
+{
+    border: 1px solid silver;
+    background-color: White;
+}
+
+.FichaCadastral
+{
+    border: 1px solid silver;
+    background-color: White;
+    width: 680px;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+.FichaCadastral caption
+{
+    border: 1px solid silver;
+    background-color: silver;
+    text-align: left;
+    padding: 2px;
+}

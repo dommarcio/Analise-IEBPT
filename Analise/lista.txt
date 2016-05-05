@@ -1,0 +1,307 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 58EF-C4BC
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise
+
+05/05/2016  10:07    <DIR>          .
+05/05/2016  10:07    <DIR>          ..
+04/05/2016  14:27    <DIR>          Analise
+04/05/2016  14:31    <DIR>          Analise.DAL
+04/05/2016  18:38    <DIR>          Analise.DTL
+04/05/2016  15:11             2.380 Analise.sln
+04/05/2016  17:51    <DIR>          Analise.WEB
+05/05/2016  10:07                 0 lista.txt
+04/05/2016  18:52           145.734 teste.txt
+               3 arquivo(s)        148.114 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise
+
+04/05/2016  14:27    <DIR>          .
+04/05/2016  14:27    <DIR>          ..
+04/05/2016  15:11             2.716 Analise.BLL.csproj
+04/05/2016  18:51             3.884 AnaliseBO.cs
+04/05/2016  14:27    <DIR>          bin
+04/05/2016  10:31    <DIR>          obj
+04/05/2016  10:31    <DIR>          Properties
+               2 arquivo(s)          6.600 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise\bin
+
+04/05/2016  14:27    <DIR>          .
+04/05/2016  14:27    <DIR>          ..
+04/05/2016  15:11    <DIR>          Debug
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise\bin\Debug
+
+04/05/2016  15:11    <DIR>          .
+04/05/2016  15:11    <DIR>          ..
+04/05/2016  16:44             5.632 Analise.DAL.dll
+04/05/2016  16:44            13.824 Analise.DAL.pdb
+04/05/2016  16:44             5.120 Analise.dll
+04/05/2016  15:11             8.704 Analise.DTL.dll
+04/05/2016  15:11             7.680 Analise.DTL.pdb
+04/05/2016  16:44            13.824 Analise.pdb
+               6 arquivo(s)         54.784 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise\obj
+
+04/05/2016  10:31    <DIR>          .
+04/05/2016  10:31    <DIR>          ..
+04/05/2016  16:44    <DIR>          Debug
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise\obj\Debug
+
+04/05/2016  16:44    <DIR>          .
+04/05/2016  16:44    <DIR>          ..
+04/05/2016  15:11               899 Analise.BLL.csproj.FileListAbsolute.txt
+04/05/2016  16:44             7.264 Analise.BLL.csprojResolveAssemblyReference.cache
+04/05/2016  16:44             5.120 Analise.dll
+04/05/2016  16:44            13.824 Analise.pdb
+04/05/2016  16:44             5.898 DesignTimeResolveAssemblyReferencesInput.cache
+04/05/2016  10:31    <DIR>          TempPE
+               5 arquivo(s)         33.005 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise\obj\Debug\TempPE
+
+04/05/2016  10:31    <DIR>          .
+04/05/2016  10:31    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise\Properties
+
+04/05/2016  10:31    <DIR>          .
+04/05/2016  10:31    <DIR>          ..
+04/05/2016  10:31             1.466 AssemblyInfo.cs
+               1 arquivo(s)          1.466 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DAL
+
+04/05/2016  14:31    <DIR>          .
+04/05/2016  14:31    <DIR>          ..
+04/05/2016  15:11             2.535 Analise.DAL.csproj
+04/05/2016  16:44             4.150 AnaliseDAO.cs
+04/05/2016  14:31    <DIR>          bin
+04/05/2016  14:30    <DIR>          obj
+04/05/2016  14:30    <DIR>          Properties
+               2 arquivo(s)          6.685 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DAL\bin
+
+04/05/2016  14:31    <DIR>          .
+04/05/2016  14:31    <DIR>          ..
+04/05/2016  15:11    <DIR>          Debug
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DAL\bin\Debug
+
+04/05/2016  15:11    <DIR>          .
+04/05/2016  15:11    <DIR>          ..
+04/05/2016  16:44             5.632 Analise.DAL.dll
+04/05/2016  16:44            13.824 Analise.DAL.pdb
+04/05/2016  15:11             8.704 Analise.DTL.dll
+04/05/2016  15:11             7.680 Analise.DTL.pdb
+               4 arquivo(s)         35.840 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DAL\obj
+
+04/05/2016  14:30    <DIR>          .
+04/05/2016  14:30    <DIR>          ..
+04/05/2016  16:44    <DIR>          Debug
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DAL\obj\Debug
+
+04/05/2016  16:44    <DIR>          .
+04/05/2016  16:44    <DIR>          ..
+04/05/2016  15:11               747 Analise.DAL.csproj.FileListAbsolute.txt
+04/05/2016  15:11             5.002 Analise.DAL.csprojResolveAssemblyReference.cache
+04/05/2016  16:44             5.632 Analise.DAL.dll
+04/05/2016  16:44            13.824 Analise.DAL.pdb
+04/05/2016  16:44             5.800 DesignTimeResolveAssemblyReferencesInput.cache
+04/05/2016  14:30    <DIR>          TempPE
+               5 arquivo(s)         31.005 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DAL\obj\Debug\TempPE
+
+04/05/2016  14:30    <DIR>          .
+04/05/2016  14:30    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DAL\Properties
+
+04/05/2016  14:30    <DIR>          .
+04/05/2016  14:30    <DIR>          ..
+04/05/2016  14:30             1.474 AssemblyInfo.cs
+               1 arquivo(s)          1.474 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DTL
+
+04/05/2016  18:38    <DIR>          .
+04/05/2016  18:38    <DIR>          ..
+04/05/2016  18:51             2.549 Analise.DTL.csproj
+04/05/2016  15:11               956 AnaliseDTO.cs
+04/05/2016  15:11               293 AutorizadoDTO.cs
+04/05/2016  13:43    <DIR>          bin
+04/05/2016  18:39               281 CheckListGrupoDTO.cs
+04/05/2016  18:51               519 CheckListItemDTO.cs
+04/05/2016  18:39               238 EnumResultadoAnalise.cs
+04/05/2016  13:43    <DIR>          obj
+04/05/2016  13:43    <DIR>          Properties
+04/05/2016  15:11               501 ResponsavelDTO.cs
+               7 arquivo(s)          5.337 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DTL\bin
+
+04/05/2016  13:43    <DIR>          .
+04/05/2016  13:43    <DIR>          ..
+04/05/2016  15:11    <DIR>          Debug
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DTL\bin\Debug
+
+04/05/2016  15:11    <DIR>          .
+04/05/2016  15:11    <DIR>          ..
+04/05/2016  15:11             8.704 Analise.DTL.dll
+04/05/2016  15:11             7.680 Analise.DTL.pdb
+               2 arquivo(s)         16.384 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DTL\obj
+
+04/05/2016  13:43    <DIR>          .
+04/05/2016  13:43    <DIR>          ..
+04/05/2016  15:11    <DIR>          Debug
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DTL\obj\Debug
+
+04/05/2016  15:11    <DIR>          .
+04/05/2016  15:11    <DIR>          ..
+04/05/2016  15:11               408 Analise.DTL.csproj.FileListAbsolute.txt
+04/05/2016  15:11             8.704 Analise.DTL.dll
+04/05/2016  15:11             7.680 Analise.DTL.pdb
+04/05/2016  18:38             5.694 DesignTimeResolveAssemblyReferencesInput.cache
+04/05/2016  13:43    <DIR>          TempPE
+               4 arquivo(s)         22.486 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DTL\obj\Debug\TempPE
+
+04/05/2016  13:43    <DIR>          .
+04/05/2016  13:43    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DTL\Properties
+
+04/05/2016  13:43    <DIR>          .
+04/05/2016  13:43    <DIR>          ..
+04/05/2016  13:43             1.474 AssemblyInfo.cs
+               1 arquivo(s)          1.474 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.WEB
+
+04/05/2016  17:51    <DIR>          .
+04/05/2016  17:51    <DIR>          ..
+04/05/2016  17:53             5.779 Analise.WEB.csproj
+04/05/2016  17:53             1.092 Analise.WEB.csproj.user
+04/05/2016  18:39             9.733 analiseGeral.aspx
+04/05/2016  15:39             1.285 analiseGeral.aspx.cs
+04/05/2016  18:33             5.146 analiseGeral.aspx.designer.cs
+04/05/2016  15:11    <DIR>          bin
+04/05/2016  10:40    <DIR>          css
+04/05/2016  11:20    <DIR>          imagens
+04/05/2016  10:31    <DIR>          obj
+04/05/2016  10:31    <DIR>          Properties
+04/05/2016  10:31               309 Web.config
+04/05/2016  10:31             1.285 Web.Debug.config
+04/05/2016  10:31             1.346 Web.Release.config
+               8 arquivo(s)         25.975 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.WEB\bin
+
+04/05/2016  15:11    <DIR>          .
+04/05/2016  15:11    <DIR>          ..
+04/05/2016  16:44             5.632 Analise.DAL.dll
+04/05/2016  16:44            13.824 Analise.DAL.pdb
+04/05/2016  16:44             5.120 Analise.dll
+04/05/2016  15:11             8.704 Analise.DTL.dll
+04/05/2016  15:11             7.680 Analise.DTL.pdb
+04/05/2016  16:44            13.824 Analise.pdb
+04/05/2016  17:53             5.632 Analise.WEB.dll
+04/05/2016  17:53            13.824 Analise.WEB.pdb
+               8 arquivo(s)         74.240 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.WEB\css
+
+04/05/2016  10:40    <DIR>          .
+04/05/2016  10:40    <DIR>          ..
+04/05/2016  18:28             4.773 estilo.css
+               1 arquivo(s)          4.773 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.WEB\imagens
+
+04/05/2016  11:20    <DIR>          .
+04/05/2016  11:20    <DIR>          ..
+04/05/2016  17:51    <DIR>          icones
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.WEB\imagens\icones
+
+04/05/2016  17:51    <DIR>          .
+04/05/2016  17:51    <DIR>          ..
+04/05/2016  11:47             2.774 ajuda.png
+04/05/2016  11:47             3.321 checkList.png
+04/05/2016  11:47             5.224 documentosEnviados.png
+04/05/2016  17:51             2.239 escalar.png
+04/05/2016  11:47             3.956 fichaCadastral.png
+04/05/2016  11:47               706 iconeAmarelo.png
+04/05/2016  11:47               782 iconeVerde.png
+04/05/2016  11:47               814 iconeVermelho.png
+04/05/2016  17:51             1.864 inicar.png
+04/05/2016  11:47             6.232 lupaGr.png
+04/05/2016  13:19             4.032 lupaMd.png
+04/05/2016  11:47             1.405 lupaPq.png
+04/05/2016  11:47             2.634 mensage.png
+04/05/2016  11:47             3.957 parecer.png
+04/05/2016  17:51             1.341 salvar.png
+04/05/2016  12:26             5.202 update.png
+04/05/2016  13:19             3.520 updateMd.png
+04/05/2016  13:27             1.449 updatePq.png
+04/05/2016  11:26             1.579 usuario.png
+              19 arquivo(s)         53.031 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.WEB\obj
+
+04/05/2016  10:31    <DIR>          .
+04/05/2016  10:31    <DIR>          ..
+04/05/2016  17:53    <DIR>          Debug
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.WEB\obj\Debug
+
+04/05/2016  17:53    <DIR>          .
+04/05/2016  17:53    <DIR>          ..
+04/05/2016  15:11             1.099 Analise.WEB.csproj.FileListAbsolute.txt
+04/05/2016  16:44            11.405 Analise.WEB.csprojResolveAssemblyReference.cache
+04/05/2016  17:53             5.632 Analise.WEB.dll
+04/05/2016  17:53            13.824 Analise.WEB.pdb
+04/05/2016  18:10             9.394 DesignTimeResolveAssemblyReferencesInput.cache
+04/05/2016  10:31    <DIR>          TempPE
+               5 arquivo(s)         41.354 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.WEB\obj\Debug\TempPE
+
+04/05/2016  10:31    <DIR>          .
+04/05/2016  10:31    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.WEB\Properties
+
+04/05/2016  10:31    <DIR>          .
+04/05/2016  10:31    <DIR>          ..
+04/05/2016  10:31             1.433 AssemblyInfo.cs
+               1 arquivo(s)          1.433 bytes
+
+     Total de Arquivos na Lista:
+              85 arquivo(s)        565.460 bytes
+              92 pasta(s)   460.007.591.936 bytes dispon°veis

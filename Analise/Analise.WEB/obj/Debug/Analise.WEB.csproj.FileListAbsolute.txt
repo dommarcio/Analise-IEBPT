@@ -1,0 +1,11 @@
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\bin\Analise.WEB.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\bin\Analise.WEB.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\obj\Debug\Analise.WEB.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\obj\Debug\Analise.WEB.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\bin\Analise.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\bin\Analise.DTL.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\bin\Analise.DAL.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\bin\Analise.DTL.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\bin\Analise.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\bin\Analise.DAL.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.WEB\obj\Debug\Analise.WEB.csprojResolveAssemblyReference.cache

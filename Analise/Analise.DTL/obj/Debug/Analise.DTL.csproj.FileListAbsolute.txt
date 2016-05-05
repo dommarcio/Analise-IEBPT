@@ -1,0 +1,5 @@
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.DTL\bin\Debug\Analise.DTL.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.DTL\bin\Debug\Analise.DTL.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.DTL\obj\Debug\Analise.DTL.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise.DTL\obj\Debug\Analise.DTL.pdb
+C:\Users\T699701\Documents\Visual Studio 2010\Projects\Analise\Analise.DTL\obj\Debug\Analise.DTL.csprojResolveAssemblyReference.cache
