@@ -1,0 +1,9 @@
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise\bin\Debug\Analise.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise\bin\Debug\Analise.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise\obj\Debug\Analise.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise\obj\Debug\Analise.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise\bin\Debug\Analise.DAL.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise\bin\Debug\Analise.DTL.dll
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise\bin\Debug\Analise.DAL.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise\bin\Debug\Analise.DTL.pdb
+c:\users\t699701\documents\visual studio 2010\Projects\Analise\Analise\obj\Debug\Analise.BLL.csprojResolveAssemblyReference.cache
